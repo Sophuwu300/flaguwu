@@ -1,3 +1,2 @@
-#flaguwu
-
+# flaguwu
 simple flag/arg library
